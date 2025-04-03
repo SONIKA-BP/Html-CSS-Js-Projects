@@ -1,0 +1,73 @@
+.sign-up-form{
+    background-color: rgba(40, 24, 24, 0.208);
+    padding: 30px;
+    border-radius:10px;
+    max-width: 500px;
+  
+}
+h1{
+    color:blue;
+    font-size: 40px;
+}
+p{
+    margin-top:-15px;
+}
+.info1{
+    margin-left:-230px;
+    color:#2b2b2ad0;
+}
+.info2{
+    margin-left:-230px;
+    color:#2b2b2ad0;
+}
+.info3{
+    margin-left:-260px;
+    color:#2b2b2ad0;
+}
+.info4{
+    margin-left:-240px;
+    color:#2b2b2ad0;
+}
+.info5{
+    margin-left:-180px;
+    color:#2b2b2ad0;
+}
+.field{
+    margin-top:5px;
+    width:300px;
+    height:30px;
+    border-radius:5px;
+    border:none;
+}
+#btn{
+    background-color: blue;
+    color:white;
+    width:100px;
+    height:40px;
+    border-radius:10px;
+    border:none;
+    outline:none;
+    cursor:pointer;
+}
+#btn:hover{
+    background-color: red;
+}
+#terms{
+    margin-top:10px;
+    color:gray;
+}
+#terms a{
+    color:gray;
+}
+
+#account{
+    color:rgb(27, 26, 26);
+    margin-top:10px;
+
+}
+#account a{
+    color:#05590e;
+}
+#account a:hover{
+    color:red;
+}
